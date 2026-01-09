@@ -132,7 +132,6 @@ p{
 }
 /* Solution Section  */
 .solution-section {
-    border: 1px solid black;
     display: flex;
     align-items: center;
     margin: 120px;
